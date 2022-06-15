@@ -8,7 +8,7 @@ valor = float(input("Digite o valor da compra: "))
 
 # Essa é a conta que usei para dar o desconto de 10%
 # que é o valor - 10% dele mesmo é ele descontado
-valor -= valor * 0.1
+valor -= valor * 0.1 # no caso é valor - o valor vezes 0.1 q é 10 por 100
 
 # E temos o produto descontado
 print(f"Esse é o valor descontado 10% R${valor:.2f}" )
