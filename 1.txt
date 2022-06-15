@@ -1,0 +1,25 @@
+﻿________________
+
+INSTITUTO FEDERAL
+Bahia Campus Eunápolis
+Curso: Análise de Sistemas Professor: Vinicius Nepomuceno Disciplina: Introdução à Lógica de Programação
+LISTA DE EXERCÍCIOS AVALIATIVA
+1. Em uma loja, compras a prazo possuem juros simples de 2% ao mês. Já as compras a
+vista, possuem desconto de 10%. Escreva um algoritmo e um DFD que leia do usuário o valor da compra, e a forma de pagamento (1: pagamento a vista - 2: pagamento a prazo) o prazo, no caso das compras a prazo, e informe total a pagar ou o valor da parcela mensal da mercadoria Ex: Uma mercadoria que custe R$ 100,00 e será parcelada em 5 vezes, terá um acréscimo de 10% e, portanto valor total de R$110,00, sendo dividido em 5 parcelas de $22,00. Esta mesma mercadoria à vista teria um total a pagar de R$90,00
+2. Um ano é bissexto se for múltiplo de 4 e não for múltiplo de 100, ou for múltiplo de
+400. Escreva um algoritmo e um DFD que receba um ano como entrada e diga se o ano é ou não bissexto.
+entrada e exiba-os em
+3. Escreva um algoritmo e um DFD que receba 3 números
+ordem crescente.
+4. Um estacionamento cobra R$5,00 por um período de até 3h. Para cada hora adicional,
+ele cobra R$1,50. As horas são sempre contadas como inteiros. Escreva um algoritmo e um DFD que receba como entrada a hora que o cliente entrou com o carro e a hora que o cliente saiu (em minutos e segundos), considerando apenas quantidades inteiras de horas de forma que cada minuto a mais configura uma nova hora. Obs.: A hora será sempre informada em intervalos de 24h, não havendo, por exemplo, 3 horas da tarde, mas 15 horas e o carro sempre sairá no mesmo dia em que entrou. Ex: Horário de Entrada: 10h e 20min Horário de Saída: 13h e 20min Total a pagar: R$ 5,00
+Horário de Entrada: 10h e 20min Horário de Saída: 13h e 21min Total a pagar: R$ 6,50 : R$ 5,00 + R$ 1,50
+5. De acordo com índice de massa corporal (de acordo com a Organização Mundial de
+Saúde), uma pessoa pode ser classificada como: a) abaixo do peso ideal - IMC abaixo de 18,5 b) no peso ideal - IMC entre 18,5 e 25 c) acima do peso ideal - IMC entre 25,1 e 30 d) obeso - IMC acima de 30
+Sabendo que o IMC pode ser calculado como o peso (em quilos) dividido quadrado da altura (metros), escreva um algoritmo e um DFD que solicite o peso e a altura de um usuário e classifique-o de acordo com estes dados
+6. Em outra tabela, o National Health and Nutrition Examination Survey (NHNES). classifica-se homens de mulheres de modo diferente de acordo com o IMC:
+Homens: a) abaixo do peso ideal - IMC abaixo de 20,7 b) no peso ideal - IMC entre 20,8 e 27,8 c) acima do peso ideal - IMC entre 27.9 e 31.1 d) obeso - IMC acima de 31.1
+a) abaixo do peso ideal - IMC abaixo de 19,1 b) no peso ideal - IMC entre 19,2 e 27,3 c) acima do peso ideal - IMC entre 27.4 e 32,3 d) obeso - IMC acima de 32.3
+Escreva um algoritmo e um DFD que solicite ao usuário, o sexo, o peso e a altura e classifique-o de acordo com esta nova tabela
+7. Imagine que em uma barraca de cachorro quente, cada cachorro quente custe R$4.00.
+Um copo de refrigerante custa R$ 2.00. A cada três cachorros quentes, ganha-se gratuitamente i refrigerante ou R$1.00 de desconto. Escreva um programa e um DFD que solicite ao usuário a quantidade de cachorros quentes, a quantidade de
