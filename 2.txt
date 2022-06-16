@@ -1,0 +1,30 @@
+﻿________________
+
+5. De acordo com indice de massa corporal (de acordo com a Organização Mundial de
+Saúde), uma pessoa pode ser classificada como: a) abaixo do peso ideal - IMC abaixo de 18,5 b) no peso ideal - IMC entre 18,5 e 25 c) acima do peso ideal - IMC entre 25,1 e 30 d) obeso - IMC acima de 30
+Sabendo que o IMC pode ser calculado como o peso (em quilos) dividido quadrado da altura (metros), escreva um algoritmo e um DFD que solicite o peso e a altura de um usuário e classifique-o de acordo com estes dados
+6. Em outra tabela, o National Health and Nutrition Examination Survey (NHNES), classifica-se homens de mulheres de modo diferente de acordo com o IMC:
+Homens: a) abaixo do peso ideal - IMC abaixo de 20.7 b) no peso ideal - IMC entre 20,8 e 27,8 c) acima do peso ideal - IMC entre 27,9 e 31.1 d) obeso - IMC acima de 31.1
+a) abaixo do peso ideal - IMC abaixo de 19,1 b) no peso ideal - IMC entre 19,2 e 27,3 c) acima do peso ideal - IMC entre 27.4 e 32.3 d) obeso - IMC acima de 32.3
+Escreva um algoritmo e um DFD que solicite ao usuário, o sexo, o peso e a altura e classifique-o de acordo com esta nova tabela
+7. Imagine que em uma barraca de cachorro quente, cada cachorro quente custe R$4,00.
+Um copo de refrigerante custa R$ 2.00. A cada três cachorros quentes, ganha-se gratuitamente I refrigerante ou R$1.00 de desconto. Escreva um programa e um DFD que solicite ao usuário a quantidade de cachorros quentes, a quantidade de refrigerantes e diga ao usuário qual deve ser o total a pagar, considerando os descontos dos refrigerantes gratuitos. Exemplos:
+Cachorros Quentes
+Refrigerantes
+Grátis
+Refrigerantes
+Pedidos
+Desconto Restante
+Total a Pagar
+10
+R$ 40,00 R$ 14.00 R$ 27,00
+2/3
+8. Escreva um programa e um DFD no qual o usuário digitará o dia, o mê:
+inteiro) e ano e o programa exibirá uma data com o mês em extenso. Exemplo: Dia: 10 Mês: 8 Ano: 2013 O programa exibirá: 10 de Agosto de 2013
+9. Uma livraria oferece descontos de: 10% para professores, 15% para estudantes, 12%
+para clientes fidelizados e 18% para funcionários. Todos os descontos não são cumulativos. Escreva um algoritmo e um DFD que solicite ao usuário que informe a qual das categorias pertence ou se não pertence a nenhuma delas, o preço do livro e informe o valor da compra, o valor do desconto e o total a pagar.
+10. Determinada empresa de ônibus vende passagens para: Eunápolis, Camacā, Itabuna e
+Itacaré. As passagens possuem o seguinte preço: a) Eunápolis: R$4.00 b) Camacı: R$8,00 c) Itabuna: R$13.00 d) Itacaré: R$20.00 Escreva um algoritmo e um DFD que peça para o usuário digitar a letra correspondente à cidade pra onde deseja viajar, a quantidade de passagens e diga quanto ele deve pagar.
+11. Considere uma lanchonete com as seguintes opções de bebidas, lanches e preços:
+Lanches: a) Hamburguer - R$ 4,00 b) X-Burguer - R$ 5,00 c) Misto - R$ 4,50
+Bebidas: a) Suco de Laranja - R$ 3,50
